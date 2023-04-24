@@ -26,7 +26,7 @@ const CallAPIUsingEvent = () => {
       }}> Clear Get API </button>
 
       <button type="button" onClick={(e) => {
-
+        
       }}>Post API</button>
     </div>
   </div>
